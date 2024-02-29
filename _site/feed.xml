@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-02-29T11:14:46+09:00</updated><id>http://localhost:4000/</id><title type="html">React Study</title><subtitle>Rain is a simple and clean Jekyll theme with focus on content.</subtitle><author><name>Inela Avdic Hukic</name><email>inelaah@gmail.com</email></author><entry><title type="html">테스트</title><link href="http://localhost:4000/2024-02-29/test" rel="alternate" type="text/html" title="테스트" /><published>2024-02-29T00:00:00+09:00</published><updated>2024-02-29T00:00:00+09:00</updated><id>http://localhost:4000/2024-02-29/test</id><content type="html" xml:base="http://localhost:4000/2024-02-29/test">&lt;h1 id=&quot;테스트-파일&quot;&gt;테스트 파일&lt;/h1&gt;
+&lt;h2 id=&quot;공부한거를-기록해봐요&quot;&gt;공부한거를 기록해봐요&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;목록1&lt;/li&gt;
+  &lt;li&gt;목록2&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Jekyll</name></author><category term="jekyll" /><category term="configuration" /><category term="docs" /><category term="example" /><summary type="html">테스트 파일 공부한거를 기록해봐요</summary></entry></feed>
