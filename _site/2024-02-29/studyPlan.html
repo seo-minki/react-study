@@ -8,7 +8,7 @@
 
   <title>
     
-      테스트 &middot; React Study
+      스터디 내용 공유 및 기록 &middot; React Study
     
   </title>
 
@@ -52,16 +52,59 @@
     
   </div>
   <h1 class="post-title">
-    <div>테스트</div>
+    <div>스터디 내용 공유 및 기록</div>
   </h1>
 
-  <h1 id="테스트-파일">테스트 파일</h1>
-<h2 id="공부한거를-기록해봐요">공부한거를 기록해봐요</h2>
+  <h1 id="when">When?</h1>
+<p>매주 화요일(또는 금요일) 오전 8:30</p>
 
+<h1 id="how">How?</h1>
+<p>정해진 주제를 가지고 매주 발표자가 발표 자료를 준비하여 발표 및 지식 공유</p>
+
+<h1 id="what">What?</h1>
 <ul>
-  <li>목록1</li>
-  <li>목록2</li>
+  <li>React.js</li>
+  <li>Typescript</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Redux</td>
+          <td> </td>
+          <td>Recoil</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>Next.js</li>
+  <li>CSS Framework</li>
+  <li>Express.js</li>
+  <li>MongoDB</li>
 </ul>
+
+<pre><code class="language-mermaid">flowchart TD
+Study --&gt; Front-End
+Study ---&gt; Back-End
+
+Back-End --&gt; Express.js
+Back-End --&gt; MongoDB
+
+Front-End --&gt; React.js
+React.js --&gt; TypeScript
+React.js --&gt; 동작구조,LifeCycle
+동작구조,LifeCycle --&gt; 초기환경설정
+초기환경설정 --&gt; Component,Props
+Component,Props --&gt; Event,State
+Event,State --&gt; 구현
+구현 --&gt; Redux,Recoil
+Redux,Recoil --&gt; Next.js
+
+React.js --&gt; React-Native
+
+Front-End --&gt; CSS-Framework
+CSS-Framework --&gt; Tailwindcss
+CSS-Framework --&gt; MaterialUI
+</code></pre>
 
 
 </div>
@@ -103,7 +146,7 @@
 
     <footer>
       <span>
-        &copy; <time datetime="2024-03-05 09:43:16 +0900">2024</time> Inela Avdic Hukic. Powered by Jekyll and <a href="#">Rain</a> theme.
+        &copy; <time datetime="2024-03-07 14:41:12 +0900">2024</time> Inela Avdic Hukic. Powered by Jekyll and <a href="#">Rain</a> theme.
       </span>
     </footer>
   </body>

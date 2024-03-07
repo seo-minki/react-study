@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-05T09:43:16+09:00</updated><id>http://localhost:4000/</id><title type="html">React Study</title><subtitle>페이민트 리액트 스터디 기록장</subtitle><author><name>Inela Avdic Hukic</name><email>inelaah@gmail.com</email></author><entry><title type="html">TypeScript</title><link href="http://localhost:4000/2024-03-05/typescript" rel="alternate" type="text/html" title="TypeScript" /><published>2024-03-05T00:00:00+09:00</published><updated>2024-03-05T00:00:00+09:00</updated><id>http://localhost:4000/2024-03-05/typescript</id><content type="html" xml:base="http://localhost:4000/2024-03-05/typescript">&lt;h1 id=&quot;typescript&quot;&gt;TypeScript&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-07T14:41:12+09:00</updated><id>http://localhost:4000/</id><title type="html">React Study</title><subtitle>페이민트 리액트 스터디 기록장</subtitle><author><name>Inela Avdic Hukic</name><email>inelaah@gmail.com</email></author><entry><title type="html">TypeScript</title><link href="http://localhost:4000/2024-03-05/typescript" rel="alternate" type="text/html" title="TypeScript" /><published>2024-03-05T00:00:00+09:00</published><updated>2024-03-05T00:00:00+09:00</updated><id>http://localhost:4000/2024-03-05/typescript</id><content type="html" xml:base="http://localhost:4000/2024-03-05/typescript">&lt;h1 id=&quot;typescript&quot;&gt;TypeScript&lt;/h1&gt;
 
 &lt;h2 id=&quot;typescript--javascript--type-check&quot;&gt;TypeScript = JavaScript + Type Check&lt;/h2&gt;
 
@@ -7020,10 +7020,53 @@ person.ts(8,25): error TS2339: Property 'name' does not exist on type 'Person'.
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://velog.io/@boyeon_jeong/%ED%83%80%EC%9E%85-%EA%B0%80%EB%93%9C&quot;&gt;https://velog.io/@boyeon_jeong/%ED%83%80%EC%9E%85-%EA%B0%80%EB%93%9C&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>최시민</name></author><category term="typescript" /><summary type="html">TypeScript</summary></entry><entry><title type="html">테스트</title><link href="http://localhost:4000/2024-02-29/test" rel="alternate" type="text/html" title="테스트" /><published>2024-02-29T00:00:00+09:00</published><updated>2024-02-29T00:00:00+09:00</updated><id>http://localhost:4000/2024-02-29/test</id><content type="html" xml:base="http://localhost:4000/2024-02-29/test">&lt;h1 id=&quot;테스트-파일&quot;&gt;테스트 파일&lt;/h1&gt;
-&lt;h2 id=&quot;공부한거를-기록해봐요&quot;&gt;공부한거를 기록해봐요&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name>최시민</name></author><category term="typescript" /><summary type="html">TypeScript</summary></entry><entry><title type="html">스터디 내용 공유 및 기록</title><link href="http://localhost:4000/2024-02-29/studyPlan" rel="alternate" type="text/html" title="스터디 내용 공유 및 기록" /><published>2024-02-29T00:00:00+09:00</published><updated>2024-02-29T00:00:00+09:00</updated><id>http://localhost:4000/2024-02-29/studyPlan</id><content type="html" xml:base="http://localhost:4000/2024-02-29/studyPlan">&lt;h1 id=&quot;when&quot;&gt;When?&lt;/h1&gt;
+&lt;p&gt;매주 화요일(또는 금요일) 오전 8:30&lt;/p&gt;
 
+&lt;h1 id=&quot;how&quot;&gt;How?&lt;/h1&gt;
+&lt;p&gt;정해진 주제를 가지고 매주 발표자가 발표 자료를 준비하여 발표 및 지식 공유&lt;/p&gt;
+
+&lt;h1 id=&quot;what&quot;&gt;What?&lt;/h1&gt;
 &lt;ul&gt;
-  &lt;li&gt;목록1&lt;/li&gt;
-  &lt;li&gt;목록2&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Jekyll</name></author><category term="jekyll" /><category term="configuration" /><category term="docs" /><category term="example" /><summary type="html">테스트 파일 공부한거를 기록해봐요</summary></entry></feed>
+  &lt;li&gt;React.js&lt;/li&gt;
+  &lt;li&gt;Typescript&lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Redux&lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt;Recoil&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Next.js&lt;/li&gt;
+  &lt;li&gt;CSS Framework&lt;/li&gt;
+  &lt;li&gt;Express.js&lt;/li&gt;
+  &lt;li&gt;MongoDB&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-mermaid&quot;&gt;flowchart TD
+Study --&amp;gt; Front-End
+Study ---&amp;gt; Back-End
+
+Back-End --&amp;gt; Express.js
+Back-End --&amp;gt; MongoDB
+
+Front-End --&amp;gt; React.js
+React.js --&amp;gt; TypeScript
+React.js --&amp;gt; 동작구조,LifeCycle
+동작구조,LifeCycle --&amp;gt; 초기환경설정
+초기환경설정 --&amp;gt; Component,Props
+Component,Props --&amp;gt; Event,State
+Event,State --&amp;gt; 구현
+구현 --&amp;gt; Redux,Recoil
+Redux,Recoil --&amp;gt; Next.js
+
+React.js --&amp;gt; React-Native
+
+Front-End --&amp;gt; CSS-Framework
+CSS-Framework --&amp;gt; Tailwindcss
+CSS-Framework --&amp;gt; MaterialUI
+&lt;/code&gt;&lt;/pre&gt;</content><author><name>서민기</name></author><summary type="html">When? 매주 화요일(또는 금요일) 오전 8:30</summary></entry></feed>
